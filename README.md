@@ -7,7 +7,7 @@ This installation has been created by Martin Skelly & Pete Thomas from the Unive
 
 https://www.nationalgalleries.org/exhibition/happyhere
 
-
+Code by Martin Skelly, Leonardo Amico and Pete Thomas.
 
 <br />
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
