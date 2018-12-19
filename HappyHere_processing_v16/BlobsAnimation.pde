@@ -1,3 +1,9 @@
+// Swirling animations based on "Blob 2" by Gaurav Patekar. 
+// http://www.openprocessing.org/sketch/282639
+// Licensed under Creative Commons Attribution ShareAlike
+// https://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
+
+
 class BlobsAnimation extends Animation {
 
   //brightness - 0 to 255
