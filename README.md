@@ -6,3 +6,5 @@ HappyHere explores the links between art, technology and wellbeing. The installa
 This installation has been created by Martin Skelly & Pete Thomas from the University of Dundee and was commissioned by National Galleries of Scotland for Pig Rock Bothy.
 
 https://www.nationalgalleries.org/exhibition/happyhere
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
